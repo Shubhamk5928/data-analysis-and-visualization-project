@@ -30,6 +30,6 @@ E) Peer Perception (PR)
 Process for Peer Rating in Category (PR)Scrutinizing by these two parameters itself, things don’t seem to be falling in a rigorous order. Interestingly, the parameter on perception at number (f) is somehow interspersed between those of Publication Details and IPR Summary. This is a significant departure from the established practice of rigorous data processing whereby the consistency of the framework has to be ensured by all means.
 Note:-
 Incidentally, Datasets for some of the parameters are missing altogether.
-#Final Outcomes of our Analysis :
+##Final Outcomes of our Analysis :
 From the analysis, it is observed that NIRF ranking has attracted more participation of institution of higher education from across india in all categories and subject domains.The number of particiapants has increased every year.It may also be noted that highest number of institutions are located in southern region of India.Major number of institute are in Tamil Nadu.And among these institutes most are in chennai.
 
